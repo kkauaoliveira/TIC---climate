@@ -13,3 +13,7 @@ Esta aplicação permite que você insira o nome de uma cidade e obtenha informa
 3. Instale as dependências:
    ```bash
    npm install
+
+4. Execute o progrma:
+    ```bash
+    node clima.js
